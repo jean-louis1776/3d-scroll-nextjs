@@ -1,7 +1,7 @@
 import React, { useRef, useState } from "react"
 
 const Sound = () => {
-  const [isPaused, setIsPaused] = useState("true")
+  const [isPaused, setIsPaused] = useState(true)
   const [playing, setPlaying] = useState(false)
   const audioPlayer = useRef()
 
