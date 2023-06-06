@@ -136,7 +136,6 @@ const Frames = () => {
       </div>
 
       <div className="frame transform-3d" />
-      <div className="frame transform-3d" />
 
       <div className="frame transform-3d">
         <div>&copy;{new Date().getFullYear()} ILALEX & WebDesign Master</div>

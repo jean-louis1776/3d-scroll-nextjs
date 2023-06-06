@@ -14,6 +14,7 @@ const CustomCursor = () => {
       outerScale={2}
       outerAlpha={0}
       hasBlendMode={true}
+      trailingSpeed={6}
       innerStyle={{
         backgroundColor: "rgba(255, 255, 255, .7)",
       }}
